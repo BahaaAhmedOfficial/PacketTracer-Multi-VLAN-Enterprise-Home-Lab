@@ -51,8 +51,7 @@ OSPF process 1 configured with all three networks in Area 0. Ready to scale — 
 multi-vlan-enterprise-home-lab/
 ├── README.md
 ├── topology.png                        ← Full topology screenshot
-├── packet-tracer/
-│   └── multi-vlan-lab.pkt             ← Packet Tracer file
+├── Homelab Network.pkt           ← Packet Tracer file
 ├── configs/
 │   ├── router-config.txt              ← Full router running-config
 │   └── switch-config.txt             ← Full switch running-config
